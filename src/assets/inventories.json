@@ -1,0 +1,95 @@
+[
+  {
+    "index": 1,
+    "groups": [
+      {
+        "index": 1,
+        "items": [
+          {
+            "name": "Office Skirt",
+            "model": "DSC003S24-BL02"
+          },
+          {
+            "name": "Ceci shirt",
+            "model": "DSC029S24-BE03"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "items": [
+          {
+            "name": "A Line Skirt",
+            "model": "DA001S24-WH02"
+          },
+          {
+            "name": "Daria Trousers",
+            "model": "DSQ007F24-BLx05"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "groups": [
+      {
+        "index": 1,
+        "items": [
+          {
+            "name": "A Line Skirt",
+            "model": "DA001S24-BL01"
+          },
+          {
+            "name": "Daria Trousers",
+            "model": "DSQ007F24-K04"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "items": [
+          {
+            "name": "Daria Vest",
+            "model": "DSA007F24-K03"
+          },
+          {
+            "name": "Larissa Vest",
+            "model": "DSA02F24-BLH01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "groups": [
+      {
+        "index": 1,
+        "items": [
+          {
+            "name": "A Line Skirt",
+            "model": "DA001S24-BL01"
+          },
+          {
+            "name": "Daria Trousers",
+            "model": "DSQ007F24-K04"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "items": [
+          {
+            "name": "Daria Vest",
+            "model": "DSA007F24-K03"
+          },
+          {
+            "name": "Larissa Vest",
+            "model": "DSA02F24-BLH01"
+          }
+        ]
+      }
+    ]
+  }
+]
